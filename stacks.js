@@ -1,4 +1,4 @@
-// stacks
+// que es stacks
 
 //Un stack basicamente es una pila,
 //es decir, algo que estás apilando,
